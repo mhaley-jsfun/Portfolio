@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Senior Software Engineer",
+    "meta": "Target, Minneapolis, MN",
+    "text": "Support teams with a focus of funnel, orchestrating product data architecture and implementing flows for fulfillment options and add to cart. Working on full-stack TypeScript/JavaScript with React, Next.js, Node.js, React-query, Redux, Webpack, Babel, graphQL, Headless CMSs(Strapi, Contentful, Prismic, Sanity.io, ContentStack), Chart.js, D#.js, etc.",
+    "year": "2020 - 2022"
+  },
+  {
+    "id": 2,
+    "title": "Senior Software Engineer",
+    "meta": "Feather, New York, NY",
+    "text": "A part of team, responsible for the maintenance and development of the front and backend applications(2 apps in total) using React, Vue, TypeScripy, D3.js, Material-UI, Bootstrap, Redux, Vuex, Node.js, Express.js, Django, Contentful, MongoDB, and analytics tracking",
+    "year": "2016 - 2020"
+  },
+  {
+    "id": 3,
+    "title": "Fullstack Software Developer",
+    "meta": "SingleLTC, Richardson, TX",
+    "text": "Built SPA using Vue.js/Vuex from the ground with vue-starter-kit",
+    "year": "2014 - 2016"
+  },
+  {
+    "id": 4,
+    "title": "Frontend Web Developer",
+    "meta": "United Supermarkets, Lubbock, TX",
+    "text": "Worked in many different positions including grocery merchandiser, dairy merchandiser, and overnight stocking. It is a great company to work for and I learned many valuable lessons such as working with a team to achieve a common goal and tireless customer service.",
+    "year": "2012 - 2014"
+  }
+]
