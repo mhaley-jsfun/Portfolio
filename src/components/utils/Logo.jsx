@@ -21,7 +21,7 @@ const Logo = ({ url = "/", text = false }) => {
       </a> */}
       <a className="sitelogo py-2">
         <span className="text-4xl font-bold uppercase leading-none text-primary">
-          Haley
+          MH - JS FUN
         </span>
       </a>
     </Link>
