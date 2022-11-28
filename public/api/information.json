@@ -4,7 +4,7 @@
   "fullName": "Matthew Haley",
   "thumbImage": "/images/formal-image.png",
   "largeImage": "/images/about-image.jpg",
-  "bio": "I am a fullstack software engineer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.",
+  "bio": "I am a full stack web and mobile software engineer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.",
   "age": 27,
   "nationality": "American",
   "languages": ["English", "French"],
@@ -13,8 +13,8 @@
   "socialAddress": {
     "facebook": "https://facebook.com",
     "twitter": "https://twitter.com",
-    "github": "https://github.com",
-    "linkedin": "https://linkedin.com",
+    "github": "https://github.com/mhaley-jsfun",
+    "linkedin": "https://www.linkedin.com/in/matthew-haley-956399255",
     "dribbble": "https://dribbble.com"
   },
   "phoneNumbers": [" (970) 239-9915"],

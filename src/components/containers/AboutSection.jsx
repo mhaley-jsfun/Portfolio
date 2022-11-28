@@ -128,7 +128,7 @@ const AboutSection = () => {
               high-stress environments.
             </p>
           </div>
-          <a href="Resume(Mathew Haley).pdf" className="btn mt-8">
+          <a href="Resume (Matthew Haley).pdf" className="btn mt-8">
             <span>Download Resume</span>
           </a>
         </motion.div>
