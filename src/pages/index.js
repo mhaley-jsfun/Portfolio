@@ -20,7 +20,7 @@ const Homepage1 = ({ posts }) => {
   return (
     <Layout>
       <Head>
-        <title>Matt's portfolio</title>
+        <title>Matt&apos;s portfolio</title>
       </Head>
 
       {/* Start Hero Section */}

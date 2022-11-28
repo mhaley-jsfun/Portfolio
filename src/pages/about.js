@@ -11,7 +11,7 @@ const about = () => {
   return (
     <Layout2>
       <Head>
-        <title>About - Matt's portfolio</title>
+        <title>About - Matt&apos;s portfolio</title>
       </Head>
 
       {/* Start About Section */}

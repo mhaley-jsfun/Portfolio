@@ -41,7 +41,7 @@ function MyApp({ Component, pageProps }) {
           <link rel="manifest" href="/manifest.json" />
           <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
           <link rel="apple-touch-icon" href="/icon-192x192.png" />
-          <title>Matt's portfolio</title>
+          <title>Matt&apos;s portfolio</title>
         </Head>
         <ParallaxProvider>
           <Hydrate state={pageProps.dehydratedState}>

@@ -35,7 +35,7 @@ const Posts = ({ posts, hasMore, categories, recentPosts }) => {
   return (
     <Layout>
       <Head>
-        <title>Blogs - Matt's portfolio</title>
+        <title>Blogs - Matt&apos;s portfolio</title>
       </Head>
       <Breadcrumb
         title="Blogs"
