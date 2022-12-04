@@ -2,16 +2,16 @@
   {
     "id": 1,
     "title": "Frontend Development",
-    "value": "uiux"
+    "value": "frontend development"
   },
   {
     "id": 2,
     "title": "Fullstack Development",
-    "value": "html"
+    "value": "fullstack development"
   },
   {
     "id": 3,
     "title": "Mobile App Development",
-    "value": "react"
+    "value": "mobile app development"
   }
 ]

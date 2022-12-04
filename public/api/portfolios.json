@@ -1,179 +1,152 @@
 [
-    {
-        "id": 1,
-        "title": "Candle",
-        "subtitle": "Creative Candle Light",
-        "coverimage": "/images/portfolios/portfolio-image-19.jpg",
-        "imagegallery": [
-            "/images/portfolios/portfolio-image-lg-19.jpg",
-            "/images/portfolios/portfolio-image-lg-18.jpg",
-            "/images/portfolios/portfolio-image-lg-17.jpg"
-        ],
-        "videogallery": false,
-        "url": "https://dribbble.com",
-        "filters": ["react"]
-    },
-    {
-        "id": 2,
-        "title": "Paint",
-        "subtitle": "Creative wall painting",
-        "coverimage": "/images/portfolios/portfolio-image-2.jpg",
-        "imagegallery": false,
-        "videogallery": false,
-        "url": "https://dribbble.com",
-        "filters": ["uiux"]
-    },
-    {
-        "id": 3,
-        "title": "UI/UX Sample",
-        "subtitle": "UI/UX Sample design mockup",
-        "coverimage": "/images/portfolios/portfolio-image-3.jpg",
-        "imagegallery": false,
-        "videogallery": ["https://www.youtube.com/watch?v=HHBsvKnCkwI"],
-        "url": "https://dribbble.com",
-        "filters": ["html", "react"]
-    },
-    {
-        "id": 4,
-        "title": "Packet",
-        "subtitle": "Packet design mockup",
-        "coverimage": "/images/portfolios/portfolio-image-4.jpg",
-        "imagegallery": ["/images/portfolios/portfolio-image-lg-4.jpg"],
-        "videogallery": false,
-        "url": "https://dribbble.com",
-        "filters": ["uiux", "node"]
-    },
-    {
-        "id": 5,
-        "title": "Packet",
-        "subtitle": "Another packet design mockup",
-        "coverimage": "/images/portfolios/portfolio-image-5.jpg",
-        "imagegallery": ["/images/portfolios/portfolio-image-lg-5.jpg"],
-        "videogallery": ["https://www.youtube.com/watch?v=HHBsvKnCkwI"],
-        "url": "https://dribbble.com",
-        "filters": ["uiux", "html"]
-    },
-    {
-        "id": 6,
-        "title": "Cream",
-        "subtitle": "Creative cream box design",
-        "coverimage": "/images/portfolios/portfolio-image-6.jpg",
-        "imagegallery": false,
-        "videogallery": false,
-        "url": "https://dribbble.com",
-        "filters": ["html", "node"]
-    },
-    {
-        "id": 7,
-        "title": "NFT",
-        "subtitle": "Creative NFT Design",
-        "coverimage": "/images/portfolios/portfolio-image-7.jpg",
-        "imagegallery": false,
-        "videogallery": false,
-        "url": "https://dribbble.com",
-        "filters": ["react", "uiux"]
-    },
-    {
-        "id": 8,
-        "title": "Atar",
-        "subtitle": "Atar box design",
-        "coverimage": "/images/portfolios/portfolio-image-8.jpg",
-        "imagegallery": ["/images/portfolios/portfolio-image-lg-8.jpg"],
-        "videogallery": false,
-        "url": "https://dribbble.com",
-        "filters": ["uiux"]
-    },
-    {
-        "id": 9,
-        "title": "Cream",
-        "subtitle": "Another cream box design",
-        "coverimage": "/images/portfolios/portfolio-image-9.jpg",
-        "imagegallery": false,
-        "videogallery": false,
-        "url": "https://dribbble.com",
-        "filters": ["html", "react"]
-    },
-    {
-        "id": 10,
-        "title": "Hair Gel",
-        "subtitle": "Hair gel box design",
-        "coverimage": "/images/portfolios/portfolio-image-10.jpg",
-        "imagegallery": false,
-        "videogallery": false,
-        "url": "https://dribbble.com",
-        "filters": ["uiux", "node"]
-    },
-    {
-        "id": 11,
-        "title": "Hair Gel",
-        "subtitle": "Hair gel tube design",
-        "coverimage": "/images/portfolios/portfolio-image-11.jpg",
-        "imagegallery": false,
-        "videogallery": false,
-        "url": "https://dribbble.com",
-        "filters": ["uiux", "html"]
-    },
-    {
-        "id": 12,
-        "title": "NFT",
-        "subtitle": "Creative NFT Text",
-        "coverimage": "/images/portfolios/portfolio-image-12.jpg",
-        "imagegallery": [
-            "/images/portfolios/portfolio-image-lg-12.jpg",
-            "/images/portfolios/portfolio-image-lg-11.jpg"
-        ],
-        "videogallery": false,
-        "url": "https://dribbble.com",
-        "filters": ["html", "node"]
-    },
-    {
-        "id": 13,
-        "title": "Wallpaper",
-        "subtitle": "Creative wallpaper design",
-        "coverimage": "/images/portfolios/portfolio-image-13.jpg",
-        "imagegallery": false,
-        "videogallery": false,
-        "url": "https://dribbble.com",
-        "filters": ["react", "uiux"]
-    },
-    {
-        "id": 14,
-        "title": "Wallpaper",
-        "subtitle": "Creative desktop wallpaper",
-        "coverimage": "/images/portfolios/portfolio-image-14.jpg",
-        "imagegallery": false,
-        "videogallery": false,
-        "url": "https://dribbble.com",
-        "filters": ["uiux"]
-    },
-    {
-        "id": 15,
-        "title": "NFT",
-        "subtitle": "Creative NFT Design",
-        "coverimage": "/images/portfolios/portfolio-image-15.jpg",
-        "imagegallery": false,
-        "videogallery": false,
-        "url": "https://dribbble.com",
-        "filters": ["html", "react"]
-    },
-    {
-        "id": 16,
-        "title": "Art",
-        "subtitle": "Creative wall art",
-        "coverimage": "/images/portfolios/portfolio-image-16.jpg",
-        "imagegallery": false,
-        "videogallery": false,
-        "url": false,
-        "filters": ["uiux", "node"]
-    },
-    {
-        "id": 17,
-        "title": "Wallpaper2",
-        "subtitle": "Creative wallpaper art",
-        "coverimage": "/images/portfolios/portfolio-image-1.jpg",
-        "imagegallery": false,
-        "videogallery": false,
-        "url": false,
-        "filters": ["uiux"]
-    }
+  {
+    "id": 1,
+    "title": "Aisle Rocket",
+    "subtitle": "",
+    "coverimage": "/images/portfolios/Aisle Rocket (Vue.js, Storyblok Headless CMS).png",
+    "imagegallery": false,
+    "videogallery": false,
+    "url": "https://aislerocket.com",
+    "filters": ["fullstack development"]
+  },
+  {
+    "id": 2,
+    "title": "Benetic",
+    "subtitle": "",
+    "coverimage": "/images/portfolios/benetic (Angular, Node).png",
+    "imagegallery": false,
+    "videogallery": false,
+    "url": "https://benetic.com",
+    "filters": ["fullstack development"]
+  },
+  {
+    "id": 3,
+    "title": "Curbouts",
+    "subtitle": "",
+    "coverimage": "/images/portfolios/curbouts.com (AngularJS, .NET Core).png",
+    "imagegallery": false,
+    "videogallery": false,
+    "url": "https://curbouts.com",
+    "filters": ["frontend development"]
+  },
+  {
+    "id": 4,
+    "title": "Family GPS tracker app",
+    "subtitle": "",
+    "coverimage": "/images/portfolios/family gps tracker app (React Native).png",
+    "imagegallery": false,
+    "videogallery": false,
+    "url": "https://",
+    "filters": ["mobile app development"]
+  },
+  {
+    "id": 5,
+    "title": "Feather",
+    "subtitle": "",
+    "coverimage": "/images/portfolios/Feather - livefeather.com (React, Tailwind CSS, Stripe).png",
+    "imagegallery": false,
+    "videogallery": false,
+    "url": "https://livefeather.com",
+    "filters": ["frontend development"]
+  },
+  {
+    "id": 6,
+    "title": "Fitness log & workout tracker",
+    "subtitle": "",
+    "coverimage": "/images/portfolios/Fitness Log & Workout Tracker app (React Native).png",
+    "imagegallery": false,
+    "videogallery": false,
+    "url": "https://dribbble.com",
+    "filters": ["mobile app development"]
+  },
+  {
+    "id": 7,
+    "title": "GradReady",
+    "subtitle": "",
+    "coverimage": "/images/portfolios/gradready.com.au(Ruby + React).png",
+    "imagegallery": false,
+    "videogallery": false,
+    "url": "https://gradready.com.au",
+    "filters": ["frontend development"]
+  },
+  {
+    "id": 8,
+    "title": "Insomnia Cookies",
+    "subtitle": "",
+    "coverimage": "/images/portfolios/Insomnia Cookies - insomniacookies.com (Laravel, Vue, Stripe).png",
+    "imagegallery": false,
+    "videogallery": false,
+    "url": "https://insomniacookies.com",
+    "filters": ["fullstack development"]
+  },
+  {
+    "id": 9,
+    "title": "Nue",
+    "subtitle": "",
+    "coverimage": "/images/portfolios/nue.io (Next.js, Strapi, EC2, Amplify).png",
+    "imagegallery": false,
+    "videogallery": false,
+    "url": "https://nue.io",
+    "filters": ["fullstack development"]
+  },
+  {
+    "id": 10,
+    "title": "Primablock",
+    "subtitle": "",
+    "coverimage": "/images/portfolios/primablock.com (Angular 8, Node.js, Ethereum).png",
+    "imagegallery": false,
+    "videogallery": false,
+    "url": "https://primablock.com",
+    "filters": ["fullstack development"]
+  },
+  {
+    "id": 11,
+    "title": "Spend",
+    "subtitle": "",
+    "coverimage": "/images/portfolios/spend.com (Angular 8, Node.js).png",
+    "imagegallery": false,
+    "videogallery": false,
+    "url": "https://spend.com",
+    "filters": ["fullstack development"]
+  },
+  {
+    "id": 12,
+    "title": "Stak",
+    "subtitle": "",
+    "coverimage": "/images/portfolios/Stak - https___dev.d2va8fbh5wm4at.amplifyapp.com_ (React_Next.js_AWS Amplify).png",
+    "imagegallery": false,
+    "videogallery": false,
+    "url": "https://dev.d2va8fbh5wm4at.amplifyapp.com",
+    "filters": ["frontend development"]
+  },
+  {
+    "id": 13,
+    "title": "Stewart Tech",
+    "subtitle": "",
+    "coverimage": "/images/portfolios/stewart-tech.com (Laravel, Vue, Tailwind CSS).png",
+    "imagegallery": false,
+    "videogallery": false,
+    "url": "https://stewart-tech.com",
+    "filters": ["fullstack development"]
+  },
+  {
+    "id": 14,
+    "title": "Target",
+    "subtitle": "",
+    "coverimage": "/images/portfolios/Target.com (React_Next.js_Node.js).png",
+    "imagegallery": false,
+    "videogallery": false,
+    "url": "https://target.com",
+    "filters": ["fullstack development"]
+  },
+  {
+    "id": 15,
+    "title": "Thesignatry",
+    "subtitle": "",
+    "coverimage": "/images/portfolios/Thesignatry.com (React, Node, Plaid, Stripe).png",
+    "imagegallery": false,
+    "videogallery": false,
+    "url": "https://thesignatry.com",
+    "filters": ["fullstack development"]
+  }
 ]
